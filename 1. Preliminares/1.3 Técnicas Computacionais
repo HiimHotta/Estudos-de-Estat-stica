@@ -1,0 +1,15 @@
+
+1.3 Técnicas Computacionais
+
+Assimilado ao desenvolvimento tecnológico e introdução de novas técnicas de análise de dados, notadamente de métodos gráficos e de métodos chamados de computação intensiva (como o método "bootstrap").
+
+Para implementação dessas técnicas, foram desenvolvidos pacotes estatísticos, usados em larga escala no meio acadêmico e comercial, indústrias, bancos, órgaos do governo. Esses pacotes podem ser genéricos ou específicos. Pacotes genéricos (como Minitab, Splus, SPSS, SAS, STATGRAPHICS etc) são adequados para realizar variadas análises estatísticas.
+
+Pacotes podem exigir maior ou menor experiência computacional dos usuários. Alguns operam com "menus" e seu uso é mais simples. Outros requerem maior familiaridade com o computador e são baseados em linguagens próprias.
+
+Maioria voltado para Windows, mas existem muitos utilizáveis em Linux também.
+
+Será usado em exemplos no livro para fins didáticos e sem querer forçar o leitor a nada, pois há pagos como Excel e Lotus que podem ser mais amigáveis para certos leitores.
+
+Existem também os voltados para tarefas matemáticas como MATHEMATICA, MAPLE, GAUSS e MAT LAB.
+
