@@ -1,0 +1,22 @@
+
+1.2 Modelos
+
+Análise de dados baseada na busca por um padrão ou "modelo", presente nas observações.
+
+Ex 1.1: Relacionar rendimentos e gastos de consumo de um cj de indivíduos. O que se espera é que os gastos estejam relacionados
+com seus rendimentos, portanto, supõe-se uma relação linear entre essas duas quantidades. Figura 1.1 do livro. Uma reta é traçada
+para indicar nosso modelo, o "ideal", a difereñça/distância do modelo para o dado representa o "resíduo".
+
+De modo esquemático:
+
+Dados = Modelo + Resíduos
+
+ou
+
+D = M + R
+
+M é chamada de "parte suave" (ou regular/previsível) dos dados, enquanto R é a "parte aleatória". R é tão importante quanto M, e
+a análise dos resíduos constitui uma aprte fundamental de todo trabalho estatístico. Basicamente, são os resíduos que nos dizem
+se o modelo é adequado ou não pra representar os dados. Se não me engano, quanto menor o resíduo, melhor.
+
+Uma parte exploratória de dados busca, ESSENCIALMENTE, fornecer informações para estabelecer (1.1).
