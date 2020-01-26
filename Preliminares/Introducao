@@ -1,0 +1,37 @@
+Preliminares
+
+1.1 Introdução
+
+Pesquisador precisa analisar e entender os dados que possui para relacionar eles com resultados relevantes ou ainda julgar a 
+adequação deles a alguma teoria.
+
+De modo bem geral, podemos dizer que a essência da ciência é a "Observação" e que seu objetivo básico é a "Inferência", que 
+pode ser "Dedutiva" (na qual se argumenta das premissas às conclusões) ou indutiva (por meio da qual se vai do específico ao
+geral).
+
+"Inferência estatística" é uma das partes da "Estatística". Esta é a parte da metodologia da Ciência que tem por objetivo a
+coleta, redução, análise e modelagem dos dados para fazer a inferência para uma população da qual os dados ("Amostras") foram
+obtidos. Um aspecto importante da modelagem dos dados é fazer "previsões", a partir das quais se podem tomar decisões.
+
+Na primeira parte teremos redução, análise e interpretação dos dados, um enfoque que chamaremos de "Análise Exploratória de
+Dados" (AED). Buscando obter a maior quantidade possível de informação dos dados, que indique modelos plausíveis a serem 
+utilizados numa fase posterior, a "Análise Confirmatória de Dados" (ou Inferência Estatística).
+
+Tradicionalmente, uma análise descritiva de dados limita-se a calcular algumas medidas de posição e variabilidade, como média
+e variância. Contrária a essa tendência, uma corrente mais moderna, liderada por Turkey (1977), utiliza principalmente técnicas
+"gráficas", em oposição a resumos numéricos. Isso não significa que sumários não devam ser obtido, mas uma análise exploratória
+de dados não deve se limitar a calcular tais medidas.
+
+Palavras/Definições importantes/novas:
+
+Inferência Estatística: parte da Estatística que busca fazer uma inferência de uma população baseado em uma amostra. Ou "Análise
+Confirmatória de Dados"
+
+Dedutiva: argumenta das premissas às conclusões.
+
+Indutiva: do específico ao geral.
+
+AED: Análise Exploratória de Dados, obter a maior quantidade de informações possíveis, que indique modelos plausíveis para serem
+usados numa fase posterior.
+
+
