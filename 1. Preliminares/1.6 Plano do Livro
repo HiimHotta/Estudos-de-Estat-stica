@@ -1,0 +1,49 @@
+
+1.6 Plano do Livro
+
+1ª Parte: Capítulos 2 a 4 tratarão de técnicas gráficas e numéricas. Mais especificamente:
+
+Cap 2: tratará de como resumir os dados por meio de distribuições de frequência e como representá-los graficamente. 
+
+Cap 3: as principais medidas numéricas resumidoras de um cj de dados: medida de posição (ou localização) e medidas de dispersão
+(ou de variabilidade), que serão usadas para construir gráficos importantes como o gráfico de quantis e o desenho esquemático 
+(box plot). Cap4, tratamento de casos em 2 variáveis, com uma leve citação do caso de 3 variáveis.
+
+2ª Parte: conceitos básicos sobre probabilidades e variáveis aleatórias, após a motivação da primeira parte.
+
+Cap 5: noção de probabilidade, suas propriedades, prob condicional e independência. Teorema de Bayes e destaque na importância
+em problemas de inferência.
+
+Cap 6: Variáveis aleatórias discretas.
+
+Cap 7: Variáveis aleatórias contínuas.
+
+Cap 8: 2 Variáveis aleatórias.
+
+Obs: Introduzido os principais modelos para as variáveis aleatórias (v.a.) no caps de 6 a 8. 
+
+Cap 9: noções básicas de simulação. Assunto importante, pois irá avaliar algum modelo construído para uma situação real.
+
+3ª Parte: Inferência Estatística. (Essencial o entendimento dos anteriores)
+
+Cap 10: introdução do tema, noções básicas de amostragem e distribuições amostrais.
+
+Cap 11: Estimação
+
+Cap 12: Teste de Hipótese.
+
+Cap 13: Caso de duas populações.
+
+Cap 14: testes do qui-quadrado para dados que aparedcem sob a forma de tabelas de contigência.
+
+Cap 15: caso de várias populações.
+
+Cap 16: estudo sobre o modelo de regressão linear simples.
+
+Obs: sempre que possível haverá uma seção com exemplos computacionais (no livro) que é recomendável para a familiarização
+do leitor e aprendizado do mesmo.
+
+
+
+
+
